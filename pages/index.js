@@ -42,16 +42,15 @@ const Home = () => {
 				<div className="header">
 					<div className="header-title">
 						{/* Change your headline here */}
-						<h1>Artificial Intelligent Song Writer</h1>
+						<h1>AI Country Song Writer</h1>
 					</div>
 					<div className="header-subtitle">
-						<h1>Example Prompts:</h1>
-						<h3>Enter a number of keywords separated by commas.</h3>
+						<h3>Enter a number of keywords separated by commas and the AI will generate the rest.</h3>
             			<h2>
 							Beer, cowboy boots, and dancing
 						</h2>
             <h2>
-             artificial intelligence, cats, sunny days
+             farms, horses, tractors
             </h2>
 					</div>
 				</div>
