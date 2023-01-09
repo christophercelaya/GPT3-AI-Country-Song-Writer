@@ -47,7 +47,7 @@ const Home = () => {
 					<div className="header-subtitle">
 						<h3>Enter a number of keywords separated by commas and the AI will generate the rest.</h3>
             			<h2>
-							Beer, cowboy boots, and dancing
+							country, western, square dancing
 						</h2>
             <h2>
              farms, horses, tractors
